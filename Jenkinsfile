@@ -16,3 +16,7 @@ node ()
      {
       sh "echo Hello again"
       }
+  stage ('job5')
+     {
+      sh "echo Hello again"
+      }
